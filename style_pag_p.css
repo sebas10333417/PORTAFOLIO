@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://github.com/sebas10333417/portafolio2/blob/main/Principal.jpg?raw=true);
+}
+
+#proyecto{
+    text-align: center;
+}
+.alinear {
+    display: flex;
+    margin-left: 150px;
+    color: white;
+}
+
+.alinear h2 {
+    margin-left: 200px;
+}
